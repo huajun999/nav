@@ -1,16 +1,9 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
-    "blocked": false,
-    "isInner": false
-  },
-  {
-    "name": "telegram",
-    "url": "https://cse.google.com.hk/cse?cx=d38ec18352124f9cc",
-    "icon": "https://cdn.jsdelivr.net/gh/huajun999/nav@image/nav-1645891632886-te.png",
-    "placeholder": "电报搜索",
+    "name": "电报",
+    "url": "https://cse.google.com/cse?cx=d38ec18352124f9cc",
+    "icon": "https://cdn.jsdelivr.net/gh/huajun999/nav@image/nav-1646737489076-te.png",
+    "placeholder": "电报群组搜索",
     "blocked": false,
     "isInner": false
   },
@@ -20,6 +13,28 @@
     "placeholder": "站内搜索",
     "blocked": false,
     "isInner": true
+  },
+  {
+    "name": "百度",
+    "url": "https://www.baidu.com/s?wd=",
+    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
+    "placeholder": "百度一下",
+    "blocked": false,
+    "isInner": false
+  },
+  {
+    "name": "Google",
+    "url": "https://www.google.com/search?q=",
+    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
+    "blocked": false,
+    "isInner": false
+  },
+  {
+    "name": "必应",
+    "url": "https://cn.bing.com/search?q=",
+    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
+    "blocked": false,
+    "isInner": false
   },
   {
     "name": "GitHub",
@@ -33,21 +48,6 @@
     "name": "知乎",
     "url": "https://www.zhihu.com/search?type=content&q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
-    "blocked": false,
-    "isInner": false
-  },
-  {
-    "name": "必应",
-    "url": "https://cn.bing.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
-    "blocked": false,
-    "isInner": false
-  },
-  {
-    "name": "百度",
-    "url": "https://www.baidu.com/s?wd=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
-    "placeholder": "百度一下",
     "blocked": false,
     "isInner": false
   },
